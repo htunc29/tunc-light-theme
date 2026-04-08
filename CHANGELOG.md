@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.0
+
+- Added Tunc Dark Theme (LinkedIn-inspired dark variant)
+- Deep black background with LinkedIn blue accents and borders
+
 ## 1.0.0
 
 - Initial release

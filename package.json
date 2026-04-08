@@ -2,7 +2,7 @@
   "name": "tunc-light-theme",
   "displayName": "Tunc Light Theme",
   "description": "LinkedIn-inspired light theme with clean blue accents for VS Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "huseyintunc",
   "icon": "icon.png",
   "engines": {
@@ -21,8 +21,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tunc Dark Theme",
+        "label": "Tunc Light Theme",
         "uiTheme": "vs",
+        "path": "./themes/tunc-light-color-theme.json"
+      },
+      {
+        "label": "Tunc Dark Theme",
+        "uiTheme": "vs-dark",
         "path": "./themes/tunc-dark-color-theme.json"
       }
     ]
