@@ -48,10 +48,10 @@
     "titleBar.border": "#e0e0e0",
 
     // ── Activity Bar ────────────────────────────────────────
-    "activityBar.background": "#ffffff",
-    "activityBar.foreground": "#0A66C2",
-    "activityBar.inactiveForeground": "#666666",
-    "activityBar.border": "#e0e0e0",
+    "activityBar.background": "#0A66C2",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#ffffffaa",
+    "activityBar.border": "#0856a1",
     "activityBarBadge.background": "#cc1016",
     "activityBarBadge.foreground": "#ffffff",
 
