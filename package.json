@@ -4,6 +4,7 @@
   "description": "LinkedIn-inspired light theme with clean blue accents for VS Code",
   "version": "1.0.0",
   "publisher": "huseyintunc",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
