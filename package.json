@@ -3,7 +3,7 @@
   "displayName": "Tunc Light Theme",
   "description": "LinkedIn-inspired light theme with clean blue accents for VS Code",
   "version": "1.0.0",
-  "publisher": "tunc",
+  "publisher": "huseyintunc",
   "engines": {
     "vscode": "^1.74.0"
   },
