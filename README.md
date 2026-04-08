@@ -1,4 +1,4 @@
-# Tunc Dark Theme
+# Tunc Light Theme
 
 A clean, LinkedIn-inspired light theme for Visual Studio Code.
 
