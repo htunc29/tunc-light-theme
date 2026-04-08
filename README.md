@@ -27,9 +27,9 @@ A clean, LinkedIn-inspired light theme for Visual Studio Code.
 ## Installation
 
 1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X`)
-2. Search for `Tunc Dark Theme`
+2. Search for `Tunc Light Theme`
 3. Click **Install**
-4. Go to **File > Preferences > Color Theme** and select **Tunc Dark Theme**
+4. Go to **File > Preferences > Color Theme** and select **Tunc Light Theme**
 
 ## Screenshots
 
